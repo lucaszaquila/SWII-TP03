@@ -1,0 +1,325 @@
+C:\Users\Lucas\Desktop\SWII6 git\SWII6\LivrosApi\LivrosApi\obj\Debug\LivrosApi.csproj.AssemblyReference.cache
+C:\Users\Lucas\Desktop\SWII6 git\SWII6\LivrosApi\LivrosApi\obj\Debug\LivrosApi.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\Desktop\SWII6 git\SWII6\LivrosApi\LivrosApi\bin\LivrosApi.dll.config
+C:\Users\Lucas\Desktop\SWII6 git\SWII6\LivrosApi\LivrosApi\bin\LivrosApi.dll
+C:\Users\Lucas\Desktop\SWII6 git\SWII6\LivrosApi\LivrosApi\bin\LivrosApi.pdb
+C:\Users\Lucas\Desktop\SWII6 git\SWII6\LivrosApi\LivrosApi\bin\roslyn\csc.exe
+C:\Users\Lucas\Desktop\SWII6 git\SWII6\LivrosApi\LivrosApi\bin\roslyn\csc.exe.config
+C:\Users\Lucas\Desktop\SWII6 git\SWII6\LivrosApi\LivrosApi\bin\roslyn\csc.rsp
+C:\Users\Lucas\Desktop\SWII6 git\SWII6\LivrosApi\LivrosApi\bin\roslyn\csi.exe
+C:\Users\Lucas\Desktop\SWII6 git\SWII6\LivrosApi\LivrosApi\bin\roslyn\csi.exe.config
+C:\Users\Lucas\Desktop\SWII6 git\SWII6\LivrosApi\LivrosApi\bin\roslyn\csi.rsp
+C:\Users\Lucas\Desktop\SWII6 git\SWII6\LivrosApi\LivrosApi\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Lucas\Desktop\SWII6 git\SWII6\LivrosApi\LivrosApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Lucas\Desktop\SWII6 git\SWII6\LivrosApi\LivrosApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Lucas\Desktop\SWII6 git\SWII6\LivrosApi\LivrosApi\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Lucas\Desktop\SWII6 git\SWII6\LivrosApi\LivrosApi\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Lucas\Desktop\SWII6 git\SWII6\LivrosApi\LivrosApi\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Lucas\Desktop\SWII6 git\SWII6\LivrosApi\LivrosApi\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Lucas\Desktop\SWII6 git\SWII6\LivrosApi\LivrosApi\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Lucas\Desktop\SWII6 git\SWII6\LivrosApi\LivrosApi\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Lucas\Desktop\SWII6 git\SWII6\LivrosApi\LivrosApi\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Lucas\Desktop\SWII6 git\SWII6\LivrosApi\LivrosApi\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Lucas\Desktop\SWII6 git\SWII6\LivrosApi\LivrosApi\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Lucas\Desktop\SWII6 git\SWII6\LivrosApi\LivrosApi\bin\roslyn\System.AppContext.dll
+C:\Users\Lucas\Desktop\SWII6 git\SWII6\LivrosApi\LivrosApi\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Lucas\Desktop\SWII6 git\SWII6\LivrosApi\LivrosApi\bin\roslyn\System.Console.dll
+C:\Users\Lucas\Desktop\SWII6 git\SWII6\LivrosApi\LivrosApi\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Lucas\Desktop\SWII6 git\SWII6\LivrosApi\LivrosApi\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Lucas\Desktop\SWII6 git\SWII6\LivrosApi\LivrosApi\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Lucas\Desktop\SWII6 git\SWII6\LivrosApi\LivrosApi\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Lucas\Desktop\SWII6 git\SWII6\LivrosApi\LivrosApi\bin\roslyn\System.IO.Compression.dll
+C:\Users\Lucas\Desktop\SWII6 git\SWII6\LivrosApi\LivrosApi\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Lucas\Desktop\SWII6 git\SWII6\LivrosApi\LivrosApi\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Lucas\Desktop\SWII6 git\SWII6\LivrosApi\LivrosApi\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Lucas\Desktop\SWII6 git\SWII6\LivrosApi\LivrosApi\bin\roslyn\System.Net.Http.dll
+C:\Users\Lucas\Desktop\SWII6 git\SWII6\LivrosApi\LivrosApi\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Lucas\Desktop\SWII6 git\SWII6\LivrosApi\LivrosApi\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Lucas\Desktop\SWII6 git\SWII6\LivrosApi\LivrosApi\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Lucas\Desktop\SWII6 git\SWII6\LivrosApi\LivrosApi\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Lucas\Desktop\SWII6 git\SWII6\LivrosApi\LivrosApi\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Lucas\Desktop\SWII6 git\SWII6\LivrosApi\LivrosApi\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Lucas\Desktop\SWII6 git\SWII6\LivrosApi\LivrosApi\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Lucas\Desktop\SWII6 git\SWII6\LivrosApi\LivrosApi\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Lucas\Desktop\SWII6 git\SWII6\LivrosApi\LivrosApi\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Lucas\Desktop\SWII6 git\SWII6\LivrosApi\LivrosApi\bin\roslyn\System.ValueTuple.dll
+C:\Users\Lucas\Desktop\SWII6 git\SWII6\LivrosApi\LivrosApi\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Lucas\Desktop\SWII6 git\SWII6\LivrosApi\LivrosApi\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Lucas\Desktop\SWII6 git\SWII6\LivrosApi\LivrosApi\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Lucas\Desktop\SWII6 git\SWII6\LivrosApi\LivrosApi\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Lucas\Desktop\SWII6 git\SWII6\LivrosApi\LivrosApi\bin\roslyn\vbc.exe
+C:\Users\Lucas\Desktop\SWII6 git\SWII6\LivrosApi\LivrosApi\bin\roslyn\vbc.exe.config
+C:\Users\Lucas\Desktop\SWII6 git\SWII6\LivrosApi\LivrosApi\bin\roslyn\vbc.rsp
+C:\Users\Lucas\Desktop\SWII6 git\SWII6\LivrosApi\LivrosApi\bin\roslyn\VBCSCompiler.exe
+C:\Users\Lucas\Desktop\SWII6 git\SWII6\LivrosApi\LivrosApi\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Lucas\Desktop\SWII6 git\SWII6\LivrosApi\LivrosApi\bin\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\Lucas\Desktop\SWII6 git\SWII6\LivrosApi\LivrosApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Lucas\Desktop\SWII6 git\SWII6\LivrosApi\LivrosApi\bin\Microsoft.Extensions.Primitives.dll
+C:\Users\Lucas\Desktop\SWII6 git\SWII6\LivrosApi\LivrosApi\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Lucas\Desktop\SWII6 git\SWII6\LivrosApi\LivrosApi\bin\Newtonsoft.Json.dll
+C:\Users\Lucas\Desktop\SWII6 git\SWII6\LivrosApi\LivrosApi\bin\System.Buffers.dll
+C:\Users\Lucas\Desktop\SWII6 git\SWII6\LivrosApi\LivrosApi\bin\System.IO.Pipelines.dll
+C:\Users\Lucas\Desktop\SWII6 git\SWII6\LivrosApi\LivrosApi\bin\System.Memory.dll
+C:\Users\Lucas\Desktop\SWII6 git\SWII6\LivrosApi\LivrosApi\bin\System.Net.Http.Formatting.dll
+C:\Users\Lucas\Desktop\SWII6 git\SWII6\LivrosApi\LivrosApi\bin\System.Numerics.Vectors.dll
+C:\Users\Lucas\Desktop\SWII6 git\SWII6\LivrosApi\LivrosApi\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Lucas\Desktop\SWII6 git\SWII6\LivrosApi\LivrosApi\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\Lucas\Desktop\SWII6 git\SWII6\LivrosApi\LivrosApi\bin\System.Web.Helpers.dll
+C:\Users\Lucas\Desktop\SWII6 git\SWII6\LivrosApi\LivrosApi\bin\System.Web.Http.dll
+C:\Users\Lucas\Desktop\SWII6 git\SWII6\LivrosApi\LivrosApi\bin\System.Web.Http.WebHost.dll
+C:\Users\Lucas\Desktop\SWII6 git\SWII6\LivrosApi\LivrosApi\bin\System.Web.Mvc.dll
+C:\Users\Lucas\Desktop\SWII6 git\SWII6\LivrosApi\LivrosApi\bin\System.Web.Razor.dll
+C:\Users\Lucas\Desktop\SWII6 git\SWII6\LivrosApi\LivrosApi\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Lucas\Desktop\SWII6 git\SWII6\LivrosApi\LivrosApi\bin\System.Web.Webpages.dll
+C:\Users\Lucas\Desktop\SWII6 git\SWII6\LivrosApi\LivrosApi\bin\System.Web.Webpages.Razor.dll
+C:\Users\Lucas\Desktop\SWII6 git\SWII6\LivrosApi\LivrosApi\bin\Microsoft.AspNetCore.Http.Features.xml
+C:\Users\Lucas\Desktop\SWII6 git\SWII6\LivrosApi\LivrosApi\bin\Microsoft.Extensions.Primitives.xml
+C:\Users\Lucas\Desktop\SWII6 git\SWII6\LivrosApi\LivrosApi\bin\System.Buffers.xml
+C:\Users\Lucas\Desktop\SWII6 git\SWII6\LivrosApi\LivrosApi\bin\System.IO.Pipelines.xml
+C:\Users\Lucas\Desktop\SWII6 git\SWII6\LivrosApi\LivrosApi\bin\System.Memory.xml
+C:\Users\Lucas\Desktop\SWII6 git\SWII6\LivrosApi\LivrosApi\bin\System.Numerics.Vectors.xml
+C:\Users\Lucas\Desktop\SWII6 git\SWII6\LivrosApi\LivrosApi\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Lucas\Desktop\SWII6 git\SWII6\LivrosApi\LivrosApi\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\Lucas\Desktop\SWII6 git\SWII6\LivrosApi\LivrosApi\bin\System.Web.Razor.xml
+C:\Users\Lucas\Desktop\SWII6 git\SWII6\LivrosApi\LivrosApi\bin\System.Web.Webpages.xml
+C:\Users\Lucas\Desktop\SWII6 git\SWII6\LivrosApi\LivrosApi\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Lucas\Desktop\SWII6 git\SWII6\LivrosApi\LivrosApi\bin\System.Web.Webpages.Razor.xml
+C:\Users\Lucas\Desktop\SWII6 git\SWII6\LivrosApi\LivrosApi\bin\System.Web.Helpers.xml
+C:\Users\Lucas\Desktop\SWII6 git\SWII6\LivrosApi\LivrosApi\bin\System.Web.Mvc.xml
+C:\Users\Lucas\Desktop\SWII6 git\SWII6\LivrosApi\LivrosApi\bin\Newtonsoft.Json.xml
+C:\Users\Lucas\Desktop\SWII6 git\SWII6\LivrosApi\LivrosApi\bin\System.Net.Http.Formatting.xml
+C:\Users\Lucas\Desktop\SWII6 git\SWII6\LivrosApi\LivrosApi\bin\System.Web.Http.xml
+C:\Users\Lucas\Desktop\SWII6 git\SWII6\LivrosApi\LivrosApi\bin\System.Web.Http.WebHost.xml
+C:\Users\Lucas\Desktop\SWII6 git\SWII6\LivrosApi\LivrosApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Lucas\Desktop\SWII6 git\SWII6\LivrosApi\LivrosApi\bin\pt-br\System.Web.Razor.resources.dll
+C:\Users\Lucas\Desktop\SWII6 git\SWII6\LivrosApi\LivrosApi\bin\pt-br\System.Web.Webpages.resources.dll
+C:\Users\Lucas\Desktop\SWII6 git\SWII6\LivrosApi\LivrosApi\bin\pt-br\System.Web.Webpages.Deployment.resources.dll
+C:\Users\Lucas\Desktop\SWII6 git\SWII6\LivrosApi\LivrosApi\bin\pt-br\System.Web.Webpages.Razor.resources.dll
+C:\Users\Lucas\Desktop\SWII6 git\SWII6\LivrosApi\LivrosApi\bin\pt-br\System.Web.Helpers.resources.dll
+C:\Users\Lucas\Desktop\SWII6 git\SWII6\LivrosApi\LivrosApi\bin\pt-br\System.Web.Mvc.resources.dll
+C:\Users\Lucas\Desktop\SWII6 git\SWII6\LivrosApi\LivrosApi\bin\pt-br\System.Net.Http.Formatting.resources.dll
+C:\Users\Lucas\Desktop\SWII6 git\SWII6\LivrosApi\LivrosApi\bin\pt-br\System.Web.Http.resources.dll
+C:\Users\Lucas\Desktop\SWII6 git\SWII6\LivrosApi\LivrosApi\bin\pt-br\System.Web.Http.WebHost.resources.dll
+C:\Users\Lucas\Desktop\SWII6 git\SWII6\LivrosApi\LivrosApi\obj\Debug\LivrosApi.csproj.CopyComplete
+C:\Users\Lucas\Desktop\SWII6 git\SWII6\LivrosApi\LivrosApi\obj\Debug\LivrosApi.dll
+C:\Users\Lucas\Desktop\SWII6 git\SWII6\LivrosApi\LivrosApi\obj\Debug\LivrosApi.pdb
+C:\Users\Lucas\Desktop\SWII6 git\SWII6\LivrosApi\LivrosApi\bin\EntityFramework.dll
+C:\Users\Lucas\Desktop\SWII6 git\SWII6\LivrosApi\LivrosApi\bin\EntityFramework.SqlServer.dll
+C:\Users\Lucas\Desktop\SWII6 git\SWII6\LivrosApi\LivrosApi\bin\EntityFramework.xml
+C:\Users\Lucas\Desktop\SWII6 git\SWII6\LivrosApi\LivrosApi\bin\EntityFramework.SqlServer.xml
+C:\Users\User\Downloads\Nova pasta (4)\SWII6-main\LivrosApi\LivrosApi\bin\LivrosApi.dll.config
+C:\Users\User\Downloads\Nova pasta (4)\SWII6-main\LivrosApi\LivrosApi\bin\LivrosApi.dll
+C:\Users\User\Downloads\Nova pasta (4)\SWII6-main\LivrosApi\LivrosApi\bin\LivrosApi.pdb
+C:\Users\User\Downloads\Nova pasta (4)\SWII6-main\LivrosApi\LivrosApi\bin\roslyn\csc.exe
+C:\Users\User\Downloads\Nova pasta (4)\SWII6-main\LivrosApi\LivrosApi\bin\roslyn\csc.exe.config
+C:\Users\User\Downloads\Nova pasta (4)\SWII6-main\LivrosApi\LivrosApi\bin\roslyn\csc.rsp
+C:\Users\User\Downloads\Nova pasta (4)\SWII6-main\LivrosApi\LivrosApi\bin\roslyn\csi.exe
+C:\Users\User\Downloads\Nova pasta (4)\SWII6-main\LivrosApi\LivrosApi\bin\roslyn\csi.exe.config
+C:\Users\User\Downloads\Nova pasta (4)\SWII6-main\LivrosApi\LivrosApi\bin\roslyn\csi.rsp
+C:\Users\User\Downloads\Nova pasta (4)\SWII6-main\LivrosApi\LivrosApi\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\User\Downloads\Nova pasta (4)\SWII6-main\LivrosApi\LivrosApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\User\Downloads\Nova pasta (4)\SWII6-main\LivrosApi\LivrosApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\User\Downloads\Nova pasta (4)\SWII6-main\LivrosApi\LivrosApi\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\User\Downloads\Nova pasta (4)\SWII6-main\LivrosApi\LivrosApi\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\User\Downloads\Nova pasta (4)\SWII6-main\LivrosApi\LivrosApi\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\User\Downloads\Nova pasta (4)\SWII6-main\LivrosApi\LivrosApi\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\User\Downloads\Nova pasta (4)\SWII6-main\LivrosApi\LivrosApi\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\User\Downloads\Nova pasta (4)\SWII6-main\LivrosApi\LivrosApi\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\User\Downloads\Nova pasta (4)\SWII6-main\LivrosApi\LivrosApi\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\User\Downloads\Nova pasta (4)\SWII6-main\LivrosApi\LivrosApi\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\User\Downloads\Nova pasta (4)\SWII6-main\LivrosApi\LivrosApi\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\User\Downloads\Nova pasta (4)\SWII6-main\LivrosApi\LivrosApi\bin\roslyn\System.AppContext.dll
+C:\Users\User\Downloads\Nova pasta (4)\SWII6-main\LivrosApi\LivrosApi\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\User\Downloads\Nova pasta (4)\SWII6-main\LivrosApi\LivrosApi\bin\roslyn\System.Console.dll
+C:\Users\User\Downloads\Nova pasta (4)\SWII6-main\LivrosApi\LivrosApi\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\User\Downloads\Nova pasta (4)\SWII6-main\LivrosApi\LivrosApi\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\User\Downloads\Nova pasta (4)\SWII6-main\LivrosApi\LivrosApi\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\User\Downloads\Nova pasta (4)\SWII6-main\LivrosApi\LivrosApi\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\User\Downloads\Nova pasta (4)\SWII6-main\LivrosApi\LivrosApi\bin\roslyn\System.IO.Compression.dll
+C:\Users\User\Downloads\Nova pasta (4)\SWII6-main\LivrosApi\LivrosApi\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\User\Downloads\Nova pasta (4)\SWII6-main\LivrosApi\LivrosApi\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\User\Downloads\Nova pasta (4)\SWII6-main\LivrosApi\LivrosApi\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\User\Downloads\Nova pasta (4)\SWII6-main\LivrosApi\LivrosApi\bin\roslyn\System.Net.Http.dll
+C:\Users\User\Downloads\Nova pasta (4)\SWII6-main\LivrosApi\LivrosApi\bin\roslyn\System.Net.Sockets.dll
+C:\Users\User\Downloads\Nova pasta (4)\SWII6-main\LivrosApi\LivrosApi\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\User\Downloads\Nova pasta (4)\SWII6-main\LivrosApi\LivrosApi\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\User\Downloads\Nova pasta (4)\SWII6-main\LivrosApi\LivrosApi\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\User\Downloads\Nova pasta (4)\SWII6-main\LivrosApi\LivrosApi\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\User\Downloads\Nova pasta (4)\SWII6-main\LivrosApi\LivrosApi\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\User\Downloads\Nova pasta (4)\SWII6-main\LivrosApi\LivrosApi\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\User\Downloads\Nova pasta (4)\SWII6-main\LivrosApi\LivrosApi\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\User\Downloads\Nova pasta (4)\SWII6-main\LivrosApi\LivrosApi\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\User\Downloads\Nova pasta (4)\SWII6-main\LivrosApi\LivrosApi\bin\roslyn\System.ValueTuple.dll
+C:\Users\User\Downloads\Nova pasta (4)\SWII6-main\LivrosApi\LivrosApi\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\User\Downloads\Nova pasta (4)\SWII6-main\LivrosApi\LivrosApi\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\User\Downloads\Nova pasta (4)\SWII6-main\LivrosApi\LivrosApi\bin\roslyn\System.Xml.XPath.dll
+C:\Users\User\Downloads\Nova pasta (4)\SWII6-main\LivrosApi\LivrosApi\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\User\Downloads\Nova pasta (4)\SWII6-main\LivrosApi\LivrosApi\bin\roslyn\vbc.exe
+C:\Users\User\Downloads\Nova pasta (4)\SWII6-main\LivrosApi\LivrosApi\bin\roslyn\vbc.exe.config
+C:\Users\User\Downloads\Nova pasta (4)\SWII6-main\LivrosApi\LivrosApi\bin\roslyn\vbc.rsp
+C:\Users\User\Downloads\Nova pasta (4)\SWII6-main\LivrosApi\LivrosApi\bin\roslyn\VBCSCompiler.exe
+C:\Users\User\Downloads\Nova pasta (4)\SWII6-main\LivrosApi\LivrosApi\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\User\Downloads\Nova pasta (4)\SWII6-main\LivrosApi\LivrosApi\bin\EntityFramework.dll
+C:\Users\User\Downloads\Nova pasta (4)\SWII6-main\LivrosApi\LivrosApi\bin\EntityFramework.SqlServer.dll
+C:\Users\User\Downloads\Nova pasta (4)\SWII6-main\LivrosApi\LivrosApi\bin\Microsoft.AspNetCore.Authentication.Abstractions.dll
+C:\Users\User\Downloads\Nova pasta (4)\SWII6-main\LivrosApi\LivrosApi\bin\Microsoft.AspNetCore.Authentication.Core.dll
+C:\Users\User\Downloads\Nova pasta (4)\SWII6-main\LivrosApi\LivrosApi\bin\Microsoft.AspNetCore.Connections.Abstractions.dll
+C:\Users\User\Downloads\Nova pasta (4)\SWII6-main\LivrosApi\LivrosApi\bin\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+C:\Users\User\Downloads\Nova pasta (4)\SWII6-main\LivrosApi\LivrosApi\bin\Microsoft.AspNetCore.Diagnostics.dll
+C:\Users\User\Downloads\Nova pasta (4)\SWII6-main\LivrosApi\LivrosApi\bin\Microsoft.AspNetCore.dll
+C:\Users\User\Downloads\Nova pasta (4)\SWII6-main\LivrosApi\LivrosApi\bin\Microsoft.AspNetCore.HostFiltering.dll
+C:\Users\User\Downloads\Nova pasta (4)\SWII6-main\LivrosApi\LivrosApi\bin\Microsoft.AspNetCore.Hosting.Abstractions.dll
+C:\Users\User\Downloads\Nova pasta (4)\SWII6-main\LivrosApi\LivrosApi\bin\Microsoft.AspNetCore.Hosting.dll
+C:\Users\User\Downloads\Nova pasta (4)\SWII6-main\LivrosApi\LivrosApi\bin\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+C:\Users\User\Downloads\Nova pasta (4)\SWII6-main\LivrosApi\LivrosApi\bin\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\Users\User\Downloads\Nova pasta (4)\SWII6-main\LivrosApi\LivrosApi\bin\Microsoft.AspNetCore.Http.dll
+C:\Users\User\Downloads\Nova pasta (4)\SWII6-main\LivrosApi\LivrosApi\bin\Microsoft.AspNetCore.Http.Extensions.dll
+C:\Users\User\Downloads\Nova pasta (4)\SWII6-main\LivrosApi\LivrosApi\bin\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\User\Downloads\Nova pasta (4)\SWII6-main\LivrosApi\LivrosApi\bin\Microsoft.AspNetCore.HttpOverrides.dll
+C:\Users\User\Downloads\Nova pasta (4)\SWII6-main\LivrosApi\LivrosApi\bin\Microsoft.AspNetCore.Routing.Abstractions.dll
+C:\Users\User\Downloads\Nova pasta (4)\SWII6-main\LivrosApi\LivrosApi\bin\Microsoft.AspNetCore.Routing.dll
+C:\Users\User\Downloads\Nova pasta (4)\SWII6-main\LivrosApi\LivrosApi\bin\Microsoft.AspNetCore.Server.IIS.dll
+C:\Users\User\Downloads\Nova pasta (4)\SWII6-main\LivrosApi\LivrosApi\bin\Microsoft.AspNetCore.Server.IISIntegration.dll
+C:\Users\User\Downloads\Nova pasta (4)\SWII6-main\LivrosApi\LivrosApi\bin\Microsoft.AspNetCore.Server.Kestrel.Core.dll
+C:\Users\User\Downloads\Nova pasta (4)\SWII6-main\LivrosApi\LivrosApi\bin\Microsoft.AspNetCore.Server.Kestrel.dll
+C:\Users\User\Downloads\Nova pasta (4)\SWII6-main\LivrosApi\LivrosApi\bin\Microsoft.AspNetCore.Server.Kestrel.Https.dll
+C:\Users\User\Downloads\Nova pasta (4)\SWII6-main\LivrosApi\LivrosApi\bin\Microsoft.AspNetCore.Server.Kestrel.Transport.Abstractions.dll
+C:\Users\User\Downloads\Nova pasta (4)\SWII6-main\LivrosApi\LivrosApi\bin\Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.dll
+C:\Users\User\Downloads\Nova pasta (4)\SWII6-main\LivrosApi\LivrosApi\bin\Microsoft.AspNetCore.WebUtilities.dll
+C:\Users\User\Downloads\Nova pasta (4)\SWII6-main\LivrosApi\LivrosApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\User\Downloads\Nova pasta (4)\SWII6-main\LivrosApi\LivrosApi\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\User\Downloads\Nova pasta (4)\SWII6-main\LivrosApi\LivrosApi\bin\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\User\Downloads\Nova pasta (4)\SWII6-main\LivrosApi\LivrosApi\bin\Microsoft.Extensions.Configuration.CommandLine.dll
+C:\Users\User\Downloads\Nova pasta (4)\SWII6-main\LivrosApi\LivrosApi\bin\Microsoft.Extensions.Configuration.dll
+C:\Users\User\Downloads\Nova pasta (4)\SWII6-main\LivrosApi\LivrosApi\bin\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+C:\Users\User\Downloads\Nova pasta (4)\SWII6-main\LivrosApi\LivrosApi\bin\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\User\Downloads\Nova pasta (4)\SWII6-main\LivrosApi\LivrosApi\bin\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\User\Downloads\Nova pasta (4)\SWII6-main\LivrosApi\LivrosApi\bin\Microsoft.Extensions.Configuration.UserSecrets.dll
+C:\Users\User\Downloads\Nova pasta (4)\SWII6-main\LivrosApi\LivrosApi\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\User\Downloads\Nova pasta (4)\SWII6-main\LivrosApi\LivrosApi\bin\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\User\Downloads\Nova pasta (4)\SWII6-main\LivrosApi\LivrosApi\bin\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\User\Downloads\Nova pasta (4)\SWII6-main\LivrosApi\LivrosApi\bin\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\User\Downloads\Nova pasta (4)\SWII6-main\LivrosApi\LivrosApi\bin\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\User\Downloads\Nova pasta (4)\SWII6-main\LivrosApi\LivrosApi\bin\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\User\Downloads\Nova pasta (4)\SWII6-main\LivrosApi\LivrosApi\bin\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\User\Downloads\Nova pasta (4)\SWII6-main\LivrosApi\LivrosApi\bin\Microsoft.Extensions.Logging.Configuration.dll
+C:\Users\User\Downloads\Nova pasta (4)\SWII6-main\LivrosApi\LivrosApi\bin\Microsoft.Extensions.Logging.Console.dll
+C:\Users\User\Downloads\Nova pasta (4)\SWII6-main\LivrosApi\LivrosApi\bin\Microsoft.Extensions.Logging.Debug.dll
+C:\Users\User\Downloads\Nova pasta (4)\SWII6-main\LivrosApi\LivrosApi\bin\Microsoft.Extensions.Logging.dll
+C:\Users\User\Downloads\Nova pasta (4)\SWII6-main\LivrosApi\LivrosApi\bin\Microsoft.Extensions.Logging.EventSource.dll
+C:\Users\User\Downloads\Nova pasta (4)\SWII6-main\LivrosApi\LivrosApi\bin\Microsoft.Extensions.ObjectPool.dll
+C:\Users\User\Downloads\Nova pasta (4)\SWII6-main\LivrosApi\LivrosApi\bin\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\Users\User\Downloads\Nova pasta (4)\SWII6-main\LivrosApi\LivrosApi\bin\Microsoft.Extensions.Options.dll
+C:\Users\User\Downloads\Nova pasta (4)\SWII6-main\LivrosApi\LivrosApi\bin\Microsoft.Extensions.Primitives.dll
+C:\Users\User\Downloads\Nova pasta (4)\SWII6-main\LivrosApi\LivrosApi\bin\Microsoft.Net.Http.Headers.dll
+C:\Users\User\Downloads\Nova pasta (4)\SWII6-main\LivrosApi\LivrosApi\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\User\Downloads\Nova pasta (4)\SWII6-main\LivrosApi\LivrosApi\bin\Newtonsoft.Json.dll
+C:\Users\User\Downloads\Nova pasta (4)\SWII6-main\LivrosApi\LivrosApi\bin\System.Buffers.dll
+C:\Users\User\Downloads\Nova pasta (4)\SWII6-main\LivrosApi\LivrosApi\bin\System.Collections.Immutable.dll
+C:\Users\User\Downloads\Nova pasta (4)\SWII6-main\LivrosApi\LivrosApi\bin\System.ComponentModel.Annotations.dll
+C:\Users\User\Downloads\Nova pasta (4)\SWII6-main\LivrosApi\LivrosApi\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\User\Downloads\Nova pasta (4)\SWII6-main\LivrosApi\LivrosApi\bin\System.IO.Pipelines.dll
+C:\Users\User\Downloads\Nova pasta (4)\SWII6-main\LivrosApi\LivrosApi\bin\System.Memory.dll
+C:\Users\User\Downloads\Nova pasta (4)\SWII6-main\LivrosApi\LivrosApi\bin\System.Net.Http.Formatting.dll
+C:\Users\User\Downloads\Nova pasta (4)\SWII6-main\LivrosApi\LivrosApi\bin\System.Numerics.Vectors.dll
+C:\Users\User\Downloads\Nova pasta (4)\SWII6-main\LivrosApi\LivrosApi\bin\System.Reflection.Metadata.dll
+C:\Users\User\Downloads\Nova pasta (4)\SWII6-main\LivrosApi\LivrosApi\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\User\Downloads\Nova pasta (4)\SWII6-main\LivrosApi\LivrosApi\bin\System.Security.Cryptography.Cng.dll
+C:\Users\User\Downloads\Nova pasta (4)\SWII6-main\LivrosApi\LivrosApi\bin\System.Security.Principal.Windows.dll
+C:\Users\User\Downloads\Nova pasta (4)\SWII6-main\LivrosApi\LivrosApi\bin\System.Text.Encodings.Web.dll
+C:\Users\User\Downloads\Nova pasta (4)\SWII6-main\LivrosApi\LivrosApi\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\User\Downloads\Nova pasta (4)\SWII6-main\LivrosApi\LivrosApi\bin\System.Web.Helpers.dll
+C:\Users\User\Downloads\Nova pasta (4)\SWII6-main\LivrosApi\LivrosApi\bin\System.Web.Http.dll
+C:\Users\User\Downloads\Nova pasta (4)\SWII6-main\LivrosApi\LivrosApi\bin\System.Web.Http.WebHost.dll
+C:\Users\User\Downloads\Nova pasta (4)\SWII6-main\LivrosApi\LivrosApi\bin\System.Web.Mvc.dll
+C:\Users\User\Downloads\Nova pasta (4)\SWII6-main\LivrosApi\LivrosApi\bin\System.Web.Razor.dll
+C:\Users\User\Downloads\Nova pasta (4)\SWII6-main\LivrosApi\LivrosApi\bin\System.Web.Webpages.Deployment.dll
+C:\Users\User\Downloads\Nova pasta (4)\SWII6-main\LivrosApi\LivrosApi\bin\System.Web.Webpages.dll
+C:\Users\User\Downloads\Nova pasta (4)\SWII6-main\LivrosApi\LivrosApi\bin\System.Web.Webpages.Razor.dll
+C:\Users\User\Downloads\Nova pasta (4)\SWII6-main\LivrosApi\LivrosApi\bin\EntityFramework.xml
+C:\Users\User\Downloads\Nova pasta (4)\SWII6-main\LivrosApi\LivrosApi\bin\EntityFramework.SqlServer.xml
+C:\Users\User\Downloads\Nova pasta (4)\SWII6-main\LivrosApi\LivrosApi\bin\Microsoft.AspNetCore.xml
+C:\Users\User\Downloads\Nova pasta (4)\SWII6-main\LivrosApi\LivrosApi\bin\Microsoft.AspNetCore.Authentication.Abstractions.xml
+C:\Users\User\Downloads\Nova pasta (4)\SWII6-main\LivrosApi\LivrosApi\bin\Microsoft.AspNetCore.Authentication.Core.xml
+C:\Users\User\Downloads\Nova pasta (4)\SWII6-main\LivrosApi\LivrosApi\bin\Microsoft.AspNetCore.Connections.Abstractions.xml
+C:\Users\User\Downloads\Nova pasta (4)\SWII6-main\LivrosApi\LivrosApi\bin\Microsoft.AspNetCore.Diagnostics.xml
+C:\Users\User\Downloads\Nova pasta (4)\SWII6-main\LivrosApi\LivrosApi\bin\Microsoft.AspNetCore.Diagnostics.Abstractions.xml
+C:\Users\User\Downloads\Nova pasta (4)\SWII6-main\LivrosApi\LivrosApi\bin\Microsoft.AspNetCore.HostFiltering.xml
+C:\Users\User\Downloads\Nova pasta (4)\SWII6-main\LivrosApi\LivrosApi\bin\Microsoft.AspNetCore.Hosting.xml
+C:\Users\User\Downloads\Nova pasta (4)\SWII6-main\LivrosApi\LivrosApi\bin\Microsoft.AspNetCore.Hosting.Abstractions.xml
+C:\Users\User\Downloads\Nova pasta (4)\SWII6-main\LivrosApi\LivrosApi\bin\Microsoft.AspNetCore.Hosting.Server.Abstractions.xml
+C:\Users\User\Downloads\Nova pasta (4)\SWII6-main\LivrosApi\LivrosApi\bin\Microsoft.AspNetCore.Http.xml
+C:\Users\User\Downloads\Nova pasta (4)\SWII6-main\LivrosApi\LivrosApi\bin\Microsoft.AspNetCore.Http.Abstractions.xml
+C:\Users\User\Downloads\Nova pasta (4)\SWII6-main\LivrosApi\LivrosApi\bin\Microsoft.AspNetCore.Http.Extensions.xml
+C:\Users\User\Downloads\Nova pasta (4)\SWII6-main\LivrosApi\LivrosApi\bin\Microsoft.AspNetCore.Http.Features.xml
+C:\Users\User\Downloads\Nova pasta (4)\SWII6-main\LivrosApi\LivrosApi\bin\Microsoft.AspNetCore.HttpOverrides.xml
+C:\Users\User\Downloads\Nova pasta (4)\SWII6-main\LivrosApi\LivrosApi\bin\Microsoft.AspNetCore.Routing.xml
+C:\Users\User\Downloads\Nova pasta (4)\SWII6-main\LivrosApi\LivrosApi\bin\Microsoft.AspNetCore.Routing.Abstractions.xml
+C:\Users\User\Downloads\Nova pasta (4)\SWII6-main\LivrosApi\LivrosApi\bin\Microsoft.AspNetCore.Server.IIS.xml
+C:\Users\User\Downloads\Nova pasta (4)\SWII6-main\LivrosApi\LivrosApi\bin\Microsoft.AspNetCore.Server.IISIntegration.xml
+C:\Users\User\Downloads\Nova pasta (4)\SWII6-main\LivrosApi\LivrosApi\bin\Microsoft.AspNetCore.Server.Kestrel.xml
+C:\Users\User\Downloads\Nova pasta (4)\SWII6-main\LivrosApi\LivrosApi\bin\Microsoft.AspNetCore.Server.Kestrel.Core.xml
+C:\Users\User\Downloads\Nova pasta (4)\SWII6-main\LivrosApi\LivrosApi\bin\Microsoft.AspNetCore.Server.Kestrel.Https.xml
+C:\Users\User\Downloads\Nova pasta (4)\SWII6-main\LivrosApi\LivrosApi\bin\Microsoft.AspNetCore.Server.Kestrel.Transport.Abstractions.xml
+C:\Users\User\Downloads\Nova pasta (4)\SWII6-main\LivrosApi\LivrosApi\bin\Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.xml
+C:\Users\User\Downloads\Nova pasta (4)\SWII6-main\LivrosApi\LivrosApi\bin\Microsoft.AspNetCore.WebUtilities.xml
+C:\Users\User\Downloads\Nova pasta (4)\SWII6-main\LivrosApi\LivrosApi\bin\Microsoft.Extensions.Configuration.xml
+C:\Users\User\Downloads\Nova pasta (4)\SWII6-main\LivrosApi\LivrosApi\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\User\Downloads\Nova pasta (4)\SWII6-main\LivrosApi\LivrosApi\bin\Microsoft.Extensions.Configuration.Binder.xml
+C:\Users\User\Downloads\Nova pasta (4)\SWII6-main\LivrosApi\LivrosApi\bin\Microsoft.Extensions.Configuration.CommandLine.xml
+C:\Users\User\Downloads\Nova pasta (4)\SWII6-main\LivrosApi\LivrosApi\bin\Microsoft.Extensions.Configuration.EnvironmentVariables.xml
+C:\Users\User\Downloads\Nova pasta (4)\SWII6-main\LivrosApi\LivrosApi\bin\Microsoft.Extensions.Configuration.FileExtensions.xml
+C:\Users\User\Downloads\Nova pasta (4)\SWII6-main\LivrosApi\LivrosApi\bin\Microsoft.Extensions.Configuration.Json.xml
+C:\Users\User\Downloads\Nova pasta (4)\SWII6-main\LivrosApi\LivrosApi\bin\Microsoft.Extensions.Configuration.UserSecrets.xml
+C:\Users\User\Downloads\Nova pasta (4)\SWII6-main\LivrosApi\LivrosApi\bin\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\User\Downloads\Nova pasta (4)\SWII6-main\LivrosApi\LivrosApi\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\User\Downloads\Nova pasta (4)\SWII6-main\LivrosApi\LivrosApi\bin\Microsoft.Extensions.FileProviders.Abstractions.xml
+C:\Users\User\Downloads\Nova pasta (4)\SWII6-main\LivrosApi\LivrosApi\bin\Microsoft.Extensions.FileProviders.Physical.xml
+C:\Users\User\Downloads\Nova pasta (4)\SWII6-main\LivrosApi\LivrosApi\bin\Microsoft.Extensions.FileSystemGlobbing.xml
+C:\Users\User\Downloads\Nova pasta (4)\SWII6-main\LivrosApi\LivrosApi\bin\Microsoft.Extensions.Hosting.Abstractions.xml
+C:\Users\User\Downloads\Nova pasta (4)\SWII6-main\LivrosApi\LivrosApi\bin\Microsoft.Extensions.Logging.xml
+C:\Users\User\Downloads\Nova pasta (4)\SWII6-main\LivrosApi\LivrosApi\bin\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\User\Downloads\Nova pasta (4)\SWII6-main\LivrosApi\LivrosApi\bin\Microsoft.Extensions.Logging.Configuration.xml
+C:\Users\User\Downloads\Nova pasta (4)\SWII6-main\LivrosApi\LivrosApi\bin\Microsoft.Extensions.Logging.Console.xml
+C:\Users\User\Downloads\Nova pasta (4)\SWII6-main\LivrosApi\LivrosApi\bin\Microsoft.Extensions.Logging.Debug.xml
+C:\Users\User\Downloads\Nova pasta (4)\SWII6-main\LivrosApi\LivrosApi\bin\Microsoft.Extensions.Logging.EventSource.xml
+C:\Users\User\Downloads\Nova pasta (4)\SWII6-main\LivrosApi\LivrosApi\bin\Microsoft.Extensions.ObjectPool.xml
+C:\Users\User\Downloads\Nova pasta (4)\SWII6-main\LivrosApi\LivrosApi\bin\Microsoft.Extensions.Options.xml
+C:\Users\User\Downloads\Nova pasta (4)\SWII6-main\LivrosApi\LivrosApi\bin\Microsoft.Extensions.Options.ConfigurationExtensions.xml
+C:\Users\User\Downloads\Nova pasta (4)\SWII6-main\LivrosApi\LivrosApi\bin\Microsoft.Extensions.Primitives.xml
+C:\Users\User\Downloads\Nova pasta (4)\SWII6-main\LivrosApi\LivrosApi\bin\Microsoft.Net.Http.Headers.xml
+C:\Users\User\Downloads\Nova pasta (4)\SWII6-main\LivrosApi\LivrosApi\bin\System.Buffers.xml
+C:\Users\User\Downloads\Nova pasta (4)\SWII6-main\LivrosApi\LivrosApi\bin\System.Collections.Immutable.xml
+C:\Users\User\Downloads\Nova pasta (4)\SWII6-main\LivrosApi\LivrosApi\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\User\Downloads\Nova pasta (4)\SWII6-main\LivrosApi\LivrosApi\bin\System.IO.Pipelines.xml
+C:\Users\User\Downloads\Nova pasta (4)\SWII6-main\LivrosApi\LivrosApi\bin\System.Memory.xml
+C:\Users\User\Downloads\Nova pasta (4)\SWII6-main\LivrosApi\LivrosApi\bin\System.Numerics.Vectors.xml
+C:\Users\User\Downloads\Nova pasta (4)\SWII6-main\LivrosApi\LivrosApi\bin\System.Reflection.Metadata.xml
+C:\Users\User\Downloads\Nova pasta (4)\SWII6-main\LivrosApi\LivrosApi\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\User\Downloads\Nova pasta (4)\SWII6-main\LivrosApi\LivrosApi\bin\System.Text.Encodings.Web.xml
+C:\Users\User\Downloads\Nova pasta (4)\SWII6-main\LivrosApi\LivrosApi\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\User\Downloads\Nova pasta (4)\SWII6-main\LivrosApi\LivrosApi\bin\System.Web.Razor.xml
+C:\Users\User\Downloads\Nova pasta (4)\SWII6-main\LivrosApi\LivrosApi\bin\System.Web.Webpages.xml
+C:\Users\User\Downloads\Nova pasta (4)\SWII6-main\LivrosApi\LivrosApi\bin\System.Web.Webpages.Deployment.xml
+C:\Users\User\Downloads\Nova pasta (4)\SWII6-main\LivrosApi\LivrosApi\bin\System.Web.Webpages.Razor.xml
+C:\Users\User\Downloads\Nova pasta (4)\SWII6-main\LivrosApi\LivrosApi\bin\System.Web.Helpers.xml
+C:\Users\User\Downloads\Nova pasta (4)\SWII6-main\LivrosApi\LivrosApi\bin\System.Web.Mvc.xml
+C:\Users\User\Downloads\Nova pasta (4)\SWII6-main\LivrosApi\LivrosApi\bin\Newtonsoft.Json.xml
+C:\Users\User\Downloads\Nova pasta (4)\SWII6-main\LivrosApi\LivrosApi\bin\System.Net.Http.Formatting.xml
+C:\Users\User\Downloads\Nova pasta (4)\SWII6-main\LivrosApi\LivrosApi\bin\System.Web.Http.xml
+C:\Users\User\Downloads\Nova pasta (4)\SWII6-main\LivrosApi\LivrosApi\bin\System.Web.Http.WebHost.xml
+C:\Users\User\Downloads\Nova pasta (4)\SWII6-main\LivrosApi\LivrosApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\User\Downloads\Nova pasta (4)\SWII6-main\LivrosApi\LivrosApi\bin\pt-br\System.Web.Razor.resources.dll
+C:\Users\User\Downloads\Nova pasta (4)\SWII6-main\LivrosApi\LivrosApi\bin\pt-br\System.Web.Webpages.resources.dll
+C:\Users\User\Downloads\Nova pasta (4)\SWII6-main\LivrosApi\LivrosApi\bin\pt-br\System.Web.Webpages.Deployment.resources.dll
+C:\Users\User\Downloads\Nova pasta (4)\SWII6-main\LivrosApi\LivrosApi\bin\pt-br\System.Web.Webpages.Razor.resources.dll
+C:\Users\User\Downloads\Nova pasta (4)\SWII6-main\LivrosApi\LivrosApi\bin\pt-br\System.Web.Helpers.resources.dll
+C:\Users\User\Downloads\Nova pasta (4)\SWII6-main\LivrosApi\LivrosApi\bin\pt-br\System.Web.Mvc.resources.dll
+C:\Users\User\Downloads\Nova pasta (4)\SWII6-main\LivrosApi\LivrosApi\bin\pt-br\System.Net.Http.Formatting.resources.dll
+C:\Users\User\Downloads\Nova pasta (4)\SWII6-main\LivrosApi\LivrosApi\bin\pt-br\System.Web.Http.resources.dll
+C:\Users\User\Downloads\Nova pasta (4)\SWII6-main\LivrosApi\LivrosApi\bin\pt-br\System.Web.Http.WebHost.resources.dll
+C:\Users\User\Downloads\Nova pasta (4)\SWII6-main\LivrosApi\LivrosApi\obj\Debug\LivrosApi.csproj.AssemblyReference.cache
+C:\Users\User\Downloads\Nova pasta (4)\SWII6-main\LivrosApi\LivrosApi\obj\Debug\LivrosApi.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\Nova pasta (4)\SWII6-main\LivrosApi\LivrosApi\obj\Debug\LivrosApi.csproj.CopyComplete
+C:\Users\User\Downloads\Nova pasta (4)\SWII6-main\LivrosApi\LivrosApi\obj\Debug\LivrosApi.dll
+C:\Users\User\Downloads\Nova pasta (4)\SWII6-main\LivrosApi\LivrosApi\obj\Debug\LivrosApi.pdb
